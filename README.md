@@ -1,4 +1,5 @@
 <div align="center">
+   
 # GigFolio × Zomato Platform Integration
 
 A separate platform rating system for Zomato delivery partners, integrated with the existing GigFolio architecture.
