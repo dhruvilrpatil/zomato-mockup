@@ -2,7 +2,7 @@
    
 # GigFolio × Zomato Platform Integration
 
-A separate platform rating system for Zomato delivery partners, integrated with the existing GigFolio architecture.
+A separate platform rating system for Zomato delivery partners, integrated with the existing **[GigFolio](https://github.com/dhruvilrpatil/GigFolio)** architecture.
 
 **[Live Demo →](https://dhruvilrpatil.github.io/zomato-mockup/)**
 
